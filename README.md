@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**KutluhanAkarcesme/KutluhanAkarcesme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+   Hi there 👋
 
 - 🔭 I’m currently working on Java and C#
 - 🌱 I’m currently learning object oriented programing
@@ -12,5 +7,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about my repositories and contact me
 - 📫 How to reach me: kutluhanakarcesme@gmail.com
 - 😄 Pronouns: he/her
-- ⚡ Fun fact: ...
--->
+
+
