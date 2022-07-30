@@ -8,7 +8,7 @@
 - 📫 How to reach me: kutluhanakarcesme@gmail.com
 - 😄 Pronouns: he/her
 ## Connect with me:
-[<img src='https://image.flaticon.com/icons/png/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/kutluhan-akarcesme-13534b1b3/) 
+[<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/kutluhan-akarcesme-13534b1b3/) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png' alt='gmail' height='40'>]
 ## Language and Tools:
 [<img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png' alt='java' height='40'>](https://www.tutorialspoint.com/java/index.htm)
 [<img src='https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg' alt='c#' height='40'>](https://www.w3schools.com/cs/index.php)
