@@ -16,3 +16,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KutluhanAkarcesme&show_icons=true&theme=transparent" alt="KutluhanAkarcesme" /></p>
 <!-- Github Stats -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=KutluhanAkarcesme&show_icons=true&theme=transparent" alt="KutluhanAkarcesme" /></p>
+##
+<p align="center">
+<a href="https://github.com/KutluhanAkarcesme">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KutluhanAkarcesme&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KutluhanAkarcesme&layout=compact&langs_count=8&theme=radical"/>
+</a>
+</p>
