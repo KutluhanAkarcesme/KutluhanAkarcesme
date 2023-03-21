@@ -1,4 +1,4 @@
-   ### Hi there 👋, I'm Kutluhan
+   ### Hi there 👋, I'm Kutluhan .Net back-end developer from Turkey
 ![About Me:](https://miro.medium.com/max/1800/1*jB76MLZjiNhGSQQvxm7LSQ.gif)
 - 🔭 I’m currently working on Java and C#
 - 🌱 I’m currently learning object oriented programing
